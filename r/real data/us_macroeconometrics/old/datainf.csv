@@ -1,0 +1,145 @@
+Short name,Mnemonic,Trans. Code,E.F.?,Description
+RGDP,GDP251,5,0,"Real gross domestic product, quantity index (2000=100) , saar"
+Cons,GDP252,5,0,"Real personal consumption expenditures, quantity index (2000=100) , saar"
+Cons-Dur,GDP253,5,1,"Real personal consumption expenditures - durable goods , quantity index (2000=100), saar"
+Cons-NonDur,GDP254,5,1,"Real personal consumption expenditures - nondurable goods, quantity index (2000=100), saar"
+Cons-Serv,GDP255,5,1,"Real personal consumption expenditures - services, quantity index (2000=100) , saar"
+GPDInv,GDP256,5,0,"Real gross private domestic investment, quantity index (2000=100) , saar"
+FixedInv,GDP257,5,0,"Real gross private domestic investment - fixed investment, quantity index (2000=100), saar"
+NonResInv,GDP258,5,0,"Real gross private domestic investment - nonresidential , quantity index (2000=100), saar"
+NonResInv-struct,GDP259,5,1,"Real gross private domestic investment - nonresidential - structures, quantity"
+NonResInv-Bequip,GDP260,5,1,Real gross private domestic investment - nonresidential - equipment & software
+Res.Inv,GDP261,5,1,"Real gross private domestic investment - residential, quantity index (2000=100), saar"
+Exports,GDP263,5,1,"Real exports, quantity index (2000=100) , saar"
+Imports,GDP264,5,1,"Real imports, quantity index (2000=100) , saar"
+Gov,GDP265,5,0,"Real government consumption expenditures & gross investment, quantity index (2000=100), saar"
+Gov Fed,GDP266,5,1,"Real government consumption expenditures & gross investment - federal, quantity"
+Gov State/Loc,GDP267,5,1,"Real government consumption expenditures & gross investment - state & local, quantity"
+IP: total,IPS10,5,0,Industrial production index - total index
+IP: products,IPS11,5,0,"Industrial production index - products, total"
+IP: final prod,IPS299,5,0,Industrial production index - final products
+IP: cons gds,IPS12,5,0,Industrial production index - consumer goods
+IP: cons dble,IPS13,5,1,Industrial production index - durable consumer goods
+iIP:cons nondble,IPS18,5,1,Industrial production index - nondurable consumer goods
+IP:bus eqpt,IPS25,5,1,Industrial production index - business equipment
+IP: matls,IPS32,5,0,Industrial production index - materials
+IP: dble mats,IPS34,5,1,Industrial production index - durable goods materials
+IP:nondble mats,IPS38,5,1,Industrial production index - nondurable goods materials
+IP: mfg,IPS43,5,1,Industrial production index - manufacturing (sic)
+IP: fuels,IPS306,5,1,Industrial production index - fuels
+NAPM prodn,PMP,1,1,Napm production index (percent)
+Capacity Util,UTL11,1,1,Capacity utilization - manufacturing (sic)
+Emp: total,CES002,5,0,"Employees, nonfarm - total private"
+Emp: gds prod,CES003,5,0,"Employees, nonfarm - goods-producing"
+Emp: mining,CES006,5,1,"Employees, nonfarm - mining"
+Emp: const,CES011,5,1,"Employees, nonfarm - construction"
+Emp: mfg,CES015,5,0,"Employees, nonfarm - mfg"
+Emp: dble gds,CES017,5,1,"Employees, nonfarm - durable goods"
+Emp: nondbles,CES033,5,1,"Employees, nonfarm - nondurable goods"
+Emp: services,CES046,5,1,"Employees, nonfarm - service-providing"
+Emp: TTU,CES048,5,1,"Employees, nonfarm - trade, transport, utilities"
+Emp: wholesale,CES049,5,1,"Employees, nonfarm - wholesale trade"
+Emp: retail,CES053,5,1,"Employees, nonfarm - retail trade"
+Emp: FIRE,CES088,5,1,"Employees, nonfarm - financial activities"
+Emp: Govt,CES140,5,1,"Employees, nonfarm - government"
+Help wanted indx,LHEL,2,1,Index of help-wanted advertising in newspapers (1967=100;sa)
+Help wanted/emp,LHELX,2,1,Employment: ratio; help-wanted ads:no. Unemployed clf
+Emp CPS total,LHEM,5,0,"Civilian labor force: employed, total (thous.,sa)"
+Emp CPS nonag,LHNAG,5,1,"Civilian labor force: employed, nonagric.industries (thous.,sa)"
+Emp. Hours,LBMNU,5,1,"Hours of all persons: nonfarm business sec (1982=100,sa)"
+Avg hrs,CES151,1,1,"Avg wkly hours, prod wrkrs, nonfarm - goods-producing"
+Overtime: mfg,CES155,2,1,"Avg wkly overtime hours, prod wrkrs, nonfarm - mfg"
+U: all,LHUR,2,1,"Unemployment rate: all workers, 16 years & over (%,sa)"
+U: mean duration,LHU680,2,1,Unemploy.by duration: average(mean)duration in weeks (sa)
+U < 5 wks,LHU5,5,1,"Unemploy.by duration: persons unempl.less than 5 wks (thous., sa)"
+U 5-14 wks,LHU14,5,1,"Unemploy.by duration: persons unempl.5 to 14 wks (thous., sa)"
+U 15+ wks,LHU15,5,1,"Unemploy.by duration: persons unempl.15 wks + (thous., sa)"
+U 15-26 wks,LHU26,5,1,"Unemploy.by duration: persons unempl.15 to 26 wks (thous., sa)"
+U 27+ wks,LHU27,5,1,"Unemploy.by duration: persons unempl.27 wks + (thous, sa)"
+HStarts: Total,HSFR,4,0,"Housing starts:nonfarm(1947-58);total farm&nonfarm(1959-) (thous., sa)"
+BuildPermits,HSBR,4,0,"Housing authorized: total new priv housing units (thous., saar)"
+HStarts: ne,HSNE,4,1,"Housing starts:northeast (thous.u.), sa"
+HStarts: MW,HSMW,4,1,"Housing starts:midwest(thous.u.), sa"
+HStarts: South,HSSOU,4,1,"Housing starts:south (thous.u.), sa"
+HStarts: West,HSWST,4,1,"Housing starts:west (thous.u.), sa"
+PMI,PMI,1,1,Purchasing managers' index (sa)
+NAPM new ordrs,PMNO,1,1,Napm new orders index (percent)
+NAPM vendor del,PMDEL,1,1,Napm vendor deliveries index (percent)
+NAPM Invent,PMNV,1,1,Napm inventories index (percent)
+Orders (ConsGoods),MOCMQ,5,1,"New orders (net) - consumer goods & materials, 1996 dollars (bci)"
+Orders (NDCapGoods),MSONDQ,5,1,"New orders, nondefense capital goods, in 1996 dollars (bci)"
+PGDP,GDP272A,6,0,Gross domestic product price index
+PCED,GDP273A,6,0,Personal consumption expenditures price index
+CPI-All,CPIAUCSL,6,0,CPI all items (sa) fred
+PCED-Core,PCEPILFE,6,0,PCE price index less food and energy (sa) (FRED)
+CPI-Core,CPILFESL,6,0,CPI less food and energy (sa) (FRED)
+PCED-Dur,GDP274A,6,0,Durable goods price index
+PCED-motorveh,GDP274_1,6,1,Motor vehicles and parts price index
+PCED-hhequip,GDP274_2,6,1,Furniture and household equipment price index
+PCED-oth dur,GDP274_3,6,1,Other price index
+PCED-nondur,GDP275A,6,0,Nondurable goods price index
+PCED-food,GDP275_1,6,1,Food price index
+PCED-clothing,GDP275_2,6,1,Clothing and shoes price index
+PCED-energy,GDP275_3,6,1,"Gasoline, fuel oil, and other energy goods price index"
+PCED-oth nondur,GDP275_4,6,1,Other price index
+PCED-services,GDP276A,6,0,Services price index
+PCED-housing,GDP276_1,6,1,Housing price index
+PCED-hhops,GDP276_2,6,0,Household operation price index
+PCED-elect & gas,GDP276_3,6,1,Electricity and gas price index
+PCED-oth hhops,GDP276_4,6,1,Other household operation price index
+PCED-transport,GDP276_5,6,1,Transportation price index
+PCED-medical,GDP276_6,6,1,Medical care price index
+PCED-recreation,GDP276_7,6,1,Recreation price index
+PCED-oth serv,GDP276_8,6,1,Other price index
+PGPDI,GDP277A,6,0,Gross private domestic investment price index
+PFI,GDP278A,6,0,Fixed investment price index
+PFI-nonres,GDP279A,6,0,Nonresidential price index
+PFI-nonres struc,GDP280A,6,1,Structures
+PFI-nonres equip,GDP281A,6,1,Equipment and software price index
+PFI-resdidential,GDP282A,6,1,Residential price index
+PEXP,GDP284A,6,1,Exports price index
+PIMP,GDP285A,6,1,Imports price index
+PGOV,GDP286A,6,0,Government consumption expenditures and gross investment price index
+PGOV-Federal,GDP287A,6,1,Federal price index
+PGOV-St & loc,GDP288A,6,1,State and local price index
+Com: spot price (real),PSCCOMR,5,1,Real spot market price index:bls & crb: all commodities (1967=100) (psccom/PCEpilfe)
+OilPrice (Real),PW561R,5,1,Ppi crude (relative to core PCE) (pw561/PCEpilfe)
+NAPM com price,PMCP,1,1,Napm commodity prices index (percent)
+Real AHE: goods,CES275R,5,0,"Real avg hrly earnings, prod wrkrs, nonfarm - goods-producing (ces275/pi071)"
+Real AHE: const,CES277R,5,1,"Real avg hrly earnings, prod wrkrs, nonfarm - construction (ces277/pi071)"
+Real AHE: mfg,CES278.R,5,1,"Real avg hrly earnings, prod wrkrs, nonfarm - mfg (ces278/pi071)"
+Labor Prod,LBOUT,5,1,"Output per hour all persons: business sec(1982=100,sa)"
+Real Comp/Hour,LBPUR7,5,1,"Real compensation per hour,employees:nonfarm business(82=100,sa)"
+Unit Labor Cost,LBLCPU,5,1,"Unit labor cost: nonfarm business sec (1982=100,sa)"
+FedFunds,FYFF,2,1,"Interest rate: federal funds (effective) (% per annum,nsa)"
+3 mo T-bill,FYGM3,2,1,"Interest rate: u.s.treasury bills,sec mkt,3-mo.(% per ann,nsa)"
+6 mo T-bill,FYGM6,2,0,"Interest rate: u.s.treasury bills,sec mkt,6-mo.(% per ann,nsa)"
+1 yr T-bond,FYGT1,2,1,"Interest rate: u.s.treasury const maturities,1-yr.(% per ann,nsa)"
+5 yr T-bond,FYGT5,2,0,"Interest rate: u.s.treasury const maturities,5-yr.(% per ann,nsa)"
+10 yr T-bond,FYGT10,2,1,"Interest rate: u.s.treasury const maturities,10-yr.(% per ann,nsa)"
+Aaabond,FYAAAC,2,0,Bond yield: moody's aaa corporate (% per annum)
+Baa bond,FYBAAC,2,0,Bond yield: moody's baa corporate (% per annum)
+fygm6-fygm3,Sfygm6,1,1,fygm6-fygm3
+fygt1-fygm3,Sfygt1,1,1,fygt1-fygm3
+fygt10-fygm3,Sfygt10,1,1,fygt10-fygm3
+fyaaac-fygt10,sFYAAAC,1,1,fyaaac-fygt10
+fybaac-fygt10,sFYBAAC,1,1,fybaac-fygt10
+M1,FM1,6,1,"Money stock: m1 (curr, trav.cks, dem dep, other ck'able dep) (bil$,sa)"
+MZM,MZMSL,6,1,Mzm (sa) frb st. Louis
+M2,FM2,6,1,"Money stock:m2 (m1+o'nite rps, euro$, g/p&b/d mmmfs&sav&sm time dep (bil$,sa)"
+MB,FMFBA,6,1,"Monetary base, adj for reserve requirement changes (mil$,sa)"
+Reserves tot,FMRRA,6,1,"Depository inst reserves:total,adj for reserve req chgs (mil$,sa)"
+Reserves nonbor,FMRNBA,6,1,"Depository inst reserves:nonborrowed,adj res req chgs (mil$,sa) Bus loans"
+Bus loans,BUSLOANS,6,1,Commercial and industrial loans at all commercial banks (FRED) billions $ (sa)
+Cons credit,CCINRV,6,1,Consumer credit outstanding – nonrevolving (g19)
+Ex rate: avg,EXRUS,5,1,United States;effective exchange rate(merm) (index no.)
+Ex rate: Switz,EXRSW,5,1,Foreign exchange rate: Switzerland (Swiss franc per u.s.$)
+Ex rate: Japan,EXRJAN,5,1,Foreign exchange rate: Japan (yen per u.s.$)
+Ex rate: UK,EXRUK,5,1,Foreign exchange rate: United Kingdom (cents per pound)
+EX rate: Canada,EXRCAN,5,1,Foreign exchange rate: Canada (Canadian $ per u.s.$)
+S&P 500,FSPCOM,5,1,S&P's common stock price index: composite (1941-43=10)
+S&P: indust,FSPIN,5,1,S&P's common stock price index: industrials (1941-43=10)
+S&P div yield,FSDXP,2,1,S&P's composite common stock: dividend yield (% per annum)
+S&P PE ratio,FSPXE,2,1,"S&P's composite common stock: price-earnings ratio (%, nsa)"
+DJIA,FSDJ,5,1,Common stock prices: Dow Jones industrial average
+Consumer expect,HHSNTN,2,1,U. of Mich. index of consumer expectations (bcd-83)
